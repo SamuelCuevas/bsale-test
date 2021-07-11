@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient(35deg, #CCFFFF, #FFCCCC);
+}
+
+nav{
+    width: 100%;
+    position: fixed;
+    box-shadow: 0 0 10px 0 rgba(0, 0,0, .5);
+  }
+   
+
+.contenedor-nav{
+    display: flex;
+    margin:auto;
+    width: 90%;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1000px;
+    height: inherit;
+    overflow: hidden;
+  } 
+
+  .card-text {
+    font-size: 1.3em;
+  }
+  
+  .product {
+    width: 18rem;
+    margin: 15px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+  }
+  
+  .product img{
+    height: 95%;
+  }
+  
+  .empty {
+    text-align: center;
+    align-items: center;
+  }
