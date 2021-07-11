@@ -8,3 +8,5 @@ cors, nodemon y dotenv para utilizar variables de entorno.
 
 Frontend: Hecho en Javascript vanilla, segun requerimientos.
 Se usaron 2 librerias, Bootstrap y Fontawezome para iconos.
+
+Deploy en Heroku: https://bsale-test-samuelcuevas.herokuapp.com/
